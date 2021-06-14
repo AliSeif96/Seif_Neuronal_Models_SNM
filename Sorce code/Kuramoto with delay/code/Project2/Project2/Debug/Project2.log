@@ -1,0 +1,13 @@
+﻿  Source.cpp
+E:\Kuramoto_with_delay\Project2\Project2\kuramoto.h(324,19): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+E:\Kuramoto_with_delay\Project2\Project2\kuramoto.h(337,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Kuramoto_with_delay\Project2\Project2\kuramoto.h(383,69): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  Project2.vcxproj -> E:\Kuramoto_with_delay\Project2\Debug\Project2.exe
